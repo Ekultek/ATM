@@ -57,5 +57,4 @@
 			else
 				check
 			end
-		end
 	end
